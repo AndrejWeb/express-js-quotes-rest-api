@@ -24,13 +24,14 @@ Inspired by <a href="https://github.com/AndrejWeb/laravel10-vue3-quotes" target=
 <img src="https://i.imgur.com/CiwUkeq.jpg" alt="Screenshot 4" title="Screenshot 4" />
 
 ### Installation & Usage
-1. Create file `quotes.sqlite` in the root directory
 <img src="https://i.imgur.com/mbgW65A.jpg" alt="quotes.sqlite" title="quotes.sqlite" />
-2. Run `npm install` in terminal in the root directory
-3. Run `node index.js` in terminal in the root directory
-4. The API is now running at `localhost:3000` unless you changed the port in `index.js`
-5. You can use Postman or any other REST API tool of your choice to run API requests
-6. If you want to use other database like MySQL, PostgreSQL or MongoDB, you'd need to modify the code in `db.js` and potentially in `quoteRouter.js` and `tokenRouter.js`
+
+- Create file `quotes.sqlite` in the root directory
+- Run `npm install` in terminal in the root directory
+- Run `node index.js` in terminal in the root directory
+- The API is now running at `localhost:3000` unless you changed the port in `index.js`
+- You can use Postman or any other REST API tool of your choice to run API requests
+- If you want to use other database like MySQL, PostgreSQL or MongoDB, you'd need to modify the code in `db.js` and potentially in `quoteRouter.js` and `tokenRouter.js`
 
 ### Homework
 I have an assignment aka challenge for you if you want to solidify i.e. confirm your Node.js / Express.js skills
