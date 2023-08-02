@@ -1,3 +1,8 @@
+/**
+ * AAWeb.tech
+ * https://aaweb.tech
+ */
+
 const db = require('./db');
 
 function authenticateToken(req, res, next) {
